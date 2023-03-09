@@ -98,7 +98,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Rails Back End Link: [rails](https://github.com/shuhad786/hello-rails-back-end/tree/feature-01)
+- Rails Back End Link: [rails](https://github.com/Maxwell011/rails_backend)
 
 run the rails application with rails s -p 8000 start the server first then the react application
 
